@@ -110,3 +110,26 @@ img{
     object-fit: cover;
 }
 
+/* Tablet Media Queries*/
+@media screen and (max-width: 1024px){
+    .container {
+        width: var(--containder-width-md);
+    }
+
+    section {
+        margin-top: 6rem;
+    }
+}
+
+/*Small Media Queries*/
+@media screen and (max-width: 600px){
+    .container {
+        width: var(--containder-width-sm);
+    }
+
+    section > h2 {
+        margin-bottom: 2rem;
+    }
+}
+
+
