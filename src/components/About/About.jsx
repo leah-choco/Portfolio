@@ -20,31 +20,32 @@ const About = () => {
       </div>
 
       <div className='about__content'>
-        <div className='about__cards'></div>
+        <div className='about__cards'>
           <article className='about__card'>
             <TbCertificate className='about__icon' />
-            <h5>Education</h5>
+            <h5>Education:</h5>
             <small>Vanderbilt University Certification</small>
           </article>
 
           <article className='about__card'>
             <GoLocation className='about__icon' />
-            <h5>Location</h5>
+            <h5>Location:</h5>
             <small>Middle Tennessee</small>
           </article>
 
           <article className='about__card'>
             <GiStack className='about__icon' />
-            <h5>MERN Stack</h5>
+            <h5>MERN Stack:</h5>
             <small>MongoDB, Express, React, Node</small>
           </article>
-      </div>
-
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis, excepturi? 
+        </div>  
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis, excepturi? 
         Eaque, neque illo? Dolorum eius numquam tenetur praesentium voluptates et quo fugit expedita illo distinctio, 
         dicta explicabo sapiente consequatur debitis!
-        </p>
+      </p>
     </div>
+    </div>
+
    </section>
   )
 }
