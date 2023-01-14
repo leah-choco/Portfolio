@@ -87,7 +87,7 @@
   }
 }
 
-/*Phone Media Queries*/
+/*Phone Media Queries: Still need to get image centered*/
 @media screen and (max-width: 600px) {
     .about__me {
         width: 65%;
@@ -105,6 +105,10 @@
 
     .about__content p {
         margin: 1.5rem 0;
+    }
+    .about__me-image {
+        justify-items: center;
+        margin: 0;
     }
 }
    
