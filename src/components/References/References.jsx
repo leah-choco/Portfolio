@@ -11,46 +11,46 @@ const References = () => {
         <article className='references'>
           <div className='reference__avatar'>
             <img src={Leah} alt='Leah' />
-            <h5 className='reference__name'>Tierney Allen</h5>
-            <small className='reference__review'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Hic dolore laborum nam dolor quam nostrum voluptas amet officiis 
-              itaque provident voluptatibus fugiat adipsum qui nobis vero, optio quia incidunt!
-            </small>
           </div>
+          <h5 className='reference__name'>Tierney Allen</h5>
+          <small className='reference__review'>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Hic dolore laborum nam dolor quam nostrum voluptas amet officiis 
+            itaque provident voluptatibus fugiat adipsum qui nobis vero, optio quia incidunt!
+          </small>
         </article>
         <article className='references'>
           <div className='reference__avatar'>
             <img src={Leah} alt='Leah' />
-            <h5 className='reference__name'>Seth</h5>
-            <small className='reference__review'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Hic dolore laborum nam dolor quam nostrum voluptas amet officiis 
-              itaque provident voluptatibus fugiat adipsum qui nobis vero, optio quia incidunt!
-            </small>
           </div>
+          <h5 className='reference__name'>Tierney Allen</h5>
+          <small className='reference__review'>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Hic dolore laborum nam dolor quam nostrum voluptas amet officiis 
+            itaque provident voluptatibus fugiat adipsum qui nobis vero, optio quia incidunt!
+          </small>
         </article>
         <article className='references'>
           <div className='reference__avatar'>
             <img src={Leah} alt='Leah' />
-            <h5 className='reference__name'>Amy</h5>
-            <small className='reference__review'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Hic dolore laborum nam dolor quam nostrum voluptas amet officiis 
-              itaque provident voluptatibus fugiat adipsum qui nobis vero, optio quia incidunt!
-            </small>
           </div>
+          <h5 className='reference__name'>Tierney Allen</h5>
+          <small className='reference__review'>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Hic dolore laborum nam dolor quam nostrum voluptas amet officiis 
+            itaque provident voluptatibus fugiat adipsum qui nobis vero, optio quia incidunt!
+          </small>
         </article>
         <article className='references'>
           <div className='reference__avatar'>
             <img src={Leah} alt='Leah' />
-            <h5 className='reference__name'>Kenny</h5>
-            <small className='reference__review'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Hic dolore laborum nam dolor quam nostrum voluptas amet officiis 
-              itaque provident voluptatibus fugiat adipsum qui nobis vero, optio quia incidunt!
-            </small>
           </div>
+          <h5 className='reference__name'>Tierney Allen</h5>
+          <small className='reference__review'>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Hic dolore laborum nam dolor quam nostrum voluptas amet officiis 
+            itaque provident voluptatibus fugiat adipsum qui nobis vero, optio quia incidunt!
+          </small>
         </article>
       </div>
     </section>
