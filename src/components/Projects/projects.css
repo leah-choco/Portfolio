@@ -28,7 +28,7 @@
 
 .project__item-cta{
     display: flex;
-    gap: 1rem;
+    justify-content: center;
     margin-bottom: 1rem;
 }
 
