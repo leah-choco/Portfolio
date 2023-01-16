@@ -8,7 +8,7 @@ import Nav from './components/Nav/Nav';
 import About from './components/About/About';
 import Experience from './components/Experience/Experience';
 import Projects from './components/Projects/Projects';
-import Recommendations from './components/Recommendations/Recommendations';
+import References from './components/References/References';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
  
@@ -20,7 +20,7 @@ const App = () => {
       <About />
       <Experience />
       <Projects />   
-      <Recommendations />  
+      <References />  
       <Contact />
       <Footer /> 
     </>
