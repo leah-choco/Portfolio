@@ -1,0 +1,23 @@
+.container .contact__container{
+    width:20%;
+    display:flex;
+    justify-content: center;
+}
+
+.contact__option {
+    background: var(--color-bg-variant);
+    padding: 1.2rem;
+    display: block;
+    border-radius: 1.2rem;
+    text-align: center;
+    width: 50%;
+    margin: 0.8rem auto 0;
+    border: 1px solid transparent;
+    transition: var(--transition);
+
+}
+
+.contact__option:hover {
+    background: transparent;
+    border-color: var(--color-primary-variant);
+}
