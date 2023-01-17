@@ -18,16 +18,16 @@ Deployed Link:
 
 [Questions](#Questions)
 
-### Description
+### Description:
 
-### Installation
+### Installation:
 
-### Usage
+### Usage:
 
-### License
+### License:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### Questions
+### Questions:
 
 Contact me by email: mrsleahchoco@gmail.com.
