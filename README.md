@@ -10,7 +10,7 @@ Deployed Link:
 
 [Description](#Description)
 
-[Installation]{#Installation}
+[Installation](#Installation)
 
 [Usage](#Usage)
 
