@@ -1,8 +1,8 @@
 import React from 'react';
 import ME from '../../assets/Leah Laughing Portfolio.jpeg'
-import{TbCertificate} from 'react-icons/tb';
-import {GoLocation} from 'react-icons/go';
-import{GiStack} from 'react-icons/gi';
+import {BsLinkedin} from 'react-icons/bs';
+import{FaGithubSquare} from 'react-icons/fa';
+import {BsFacebook} from 'react-icons/bs';
 
 
 import './about.css';
@@ -22,21 +22,21 @@ const About = () => {
       <div className='about__content'>
         <div className='about__cards'>
           <article className='about__card'>
-            <TbCertificate className='about__icon' />
-            <h5>Education:</h5>
-            <small>Vanderbilt University Certification</small>
+          <a href='https://www.linkedin.com/in/leah-choco-70531b245/' target='_blank' rel='noreferrer'className='about__icon'><BsLinkedin/></a>
+            <h5>LinkedIn</h5>
+            <small>Click the icon to see my LinkedIn profile.</small>
           </article>
 
           <article className='about__card'>
-            <GoLocation className='about__icon' />
-            <h5>Location:</h5>
-            <small>Middle Tennessee</small>
+          <a href='https://github.com/leah-choco' target='_blank' rel='noreferrer' className='about__icon'><FaGithubSquare /></a>
+            <h5>Github</h5>
+            <small>Click the icon to see my Github Repos.</small>
           </article>
 
           <article className='about__card'>
-            <GiStack className='about__icon' />
-            <h5>MERN Stack:</h5>
-            <small>MongoDB, Express, React, Node</small>
+          <a href='https://www.facebook.com/profile.php?id=100009366021089' target='_blank' rel='noreferrer' className='about__icon'><BsFacebook /></a>
+            <h5>Facebook</h5>
+            <small>Click the icon to see my Facebook profile.</small>
           </article>
         </div>  
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis, excepturi? 

@@ -40,13 +40,13 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineRightCircle className='experience__details-icon'/>
                 <div>
-                  <h4>Handlebars</h4>
+                  <h4>React</h4>
                 </div>
             </article>
             <article className='experience__details'>
               <AiOutlineRightCircle className='experience__details-icon'/>
                 <div>
-                 <h4>React</h4>
+                 <h4>Handlebars</h4>
                 </div>
             </article>
           </div>
@@ -57,7 +57,7 @@ const Experience = () => {
               <article className='experience__details'>
                 <AiOutlineRightCircle className='experience__details-icon'/>
                   <div>
-                   <h4>Express.js</h4>
+                   <h4>MongoDB</h4>
                   </div>
               </article>
               <article className='experience__details'>
@@ -69,19 +69,19 @@ const Experience = () => {
               <article className='experience__details'>
                 <AiOutlineRightCircle className='experience__details-icon'/>
                   <div>
-                    <h4>MySQL</h4>
-                  </div>
-              </article>
-              <article className='experience__details'>
-                <AiOutlineRightCircle className='experience__details-icon'/>
-                  <div>
-                    <h4>MongoDB</h4>
+                    <h4>Express.js</h4>
                   </div>
               </article>
               <article className='experience__details'>
                 <AiOutlineRightCircle className='experience__details-icon'/>
                   <div>
                     <h4>Apollo GraphQL</h4>
+                  </div>
+              </article>
+              <article className='experience__details'>
+                <AiOutlineRightCircle className='experience__details-icon'/>
+                  <div>
+                    <h4>MySQL</h4>
                   </div>
               </article>
               <article className='experience__details'>
