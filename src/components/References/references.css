@@ -1,5 +1,6 @@
 .container.references__container {
     width:40%;
+    padding-bottom: 4rem ;
 
 }
 
@@ -27,6 +28,10 @@
     width: 80%;
     margin: 0.8rem auto 0;
 
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    background: var(--color-primary);
 }
 
 /* Tablet Media Queries*/

@@ -1,5 +1,15 @@
 import React from 'react';
 
+// import Swiper core and required modules
+import { Navigation, Pagination } from 'swiper';
+
+import { Swiper, SwiperSlide } from 'swiper/react';
+
+// Import Swiper styles
+import 'swiper/css';
+import 'swiper/css/pagination';
+
+
 import './references.css';
 import Tierney from '../../assets/Tierney Portfolio Avatar.jpeg';
 import Seth from '../../assets/Seth Portfolio Avatar.jpeg';
@@ -29,21 +39,27 @@ const References = () => {
   return (
     <section id='references'>
       <h2>References</h2>
-      <div className='container references__container'>
+      <Swiper className='container references__container'
+          modules={[Pagination, Navigation]}
+          spaceBetween={40}
+          slidesPerView={1}
+          navigation
+          pagination={{ clickable: true }}
+          onSlideChange={() => console.log('slide change')}>
         {
           data.map(({ avatar, name, reference}, index) => {
             return (
-              <article key={index}className='references'>
+              <SwiperSlide key={index}className='references'>
               <div className='reference__avatar'>
                 <img src={avatar} alt='Leah' />
               </div>
               <h5 className='reference__name'>{name}</h5>
               <small className='reference__review'>{reference}</small>
-            </article>
+            </SwiperSlide>
             )
           })
         }
-      </div>
+      </Swiper>
     </section>
   )
 }
