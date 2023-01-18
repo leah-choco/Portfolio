@@ -39,9 +39,11 @@ const About = () => {
             <small>Click the icon to see my Facebook profile.</small>
           </article>
         </div>  
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis, excepturi? 
-        Eaque, neque illo? Dolorum eius numquam tenetur praesentium voluptates et quo fugit expedita illo distinctio, 
-        dicta explicabo sapiente consequatur debitis!
+        <p>I am currently located in Middle Tennessee with my husband and three children.
+          My background is in Christian Ministry, but I have chosen to follow the web development 
+          career path. Recently, I became a Certified MERN Developer through the Vanderbilt University Bootcamp. 
+         Contributing to the future in this field is exciting! My hobbies involve being outdoors with my family and 
+          coffee. 
       </p>
     </div>
     </div>
