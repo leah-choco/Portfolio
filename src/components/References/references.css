@@ -31,7 +31,8 @@
 }
 
 .swiper-pagination-clickable .swiper-pagination-bullet {
-    background: var(--color-primary);
+    background: var(--color-white);
+    
 }
 
 /* Tablet Media Queries*/

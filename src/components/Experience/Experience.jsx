@@ -33,8 +33,7 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineRightCircle className='experience__details-icon'/>
                 <div>
-                  <h4>CSS Frameworks</h4>
-                  <small className='text-light'>Bootstrap, Bulma, MUI</small>
+                  <h4>Bootstrap</h4>
                 </div>
             </article>
             <article className='experience__details'>
