@@ -21,9 +21,10 @@ const About = () => {
 
       <div className='about__content'>
         <div className='about__cards'>
+          {/* <article className='about__card'> */}
           <article className='about__card'>
           <a href='https://www.linkedin.com/in/leah-choco-70531b245/' target='_blank' rel='noreferrer'className='about__icon'><BsLinkedin/>LinkedIn</a>
-          </article>
+           </article> 
 
           <article className='about__card'>
           <a href='https://github.com/leah-choco' target='_blank' rel='noreferrer' className='about__icon'><FaGithubSquare />Github</a>
