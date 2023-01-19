@@ -14,12 +14,12 @@ const Nav = () => {
 
   return (
     <nav>
-      <a href="#" onClick ={() => setActiveNav('#')} className={activeNav === "#" ? 'active' : ''}><FaHome /></a>
-      <a href="#about" onClick ={() => setActiveNav('#about')} className={activeNav === "#about" ? 'active' : ''}><BsFillPersonLinesFill /></a>
-      <a href="#experience" onClick ={() => setActiveNav('#experience')} className={activeNav === "#experience" ? 'active' : ''}><GiBookshelf /></a>
-      <a href="#projects" onClick ={() => setActiveNav('#projects')} className={activeNav === "#projects" ? 'active' : ''}><GoTools /></a>
-      <a href="#references" onClick ={() => setActiveNav('#references')} className={activeNav === "#references" ? 'active' : ''}><FaRegThumbsUp /></a>
-      <a href="#contact" onClick ={() => setActiveNav('#contact')} className={activeNav === "#contact" ? 'active' : ''}><AiOutlineMail /></a>
+      <a href="#" onClick ={() => setActiveNav('#')} className={activeNav === "#" ? 'active' : ''}>Home</a>
+      <a href="#about" onClick ={() => setActiveNav('#about')} className={activeNav === "#about" ? 'active' : ''}>About</a>
+      <a href="#experience" onClick ={() => setActiveNav('#experience')} className={activeNav === "#experience" ? 'active' : ''}>Experience</a>
+      <a href="#projects" onClick ={() => setActiveNav('#projects')} className={activeNav === "#projects" ? 'active' : ''}>Projects</a>
+      <a href="#references" onClick ={() => setActiveNav('#references')} className={activeNav === "#references" ? 'active' : ''}>References</a>
+      <a href="#contact" onClick ={() => setActiveNav('#contact')} className={activeNav === "#contact" ? 'active' : ''}>Contact</a>
     </nav>
   )
 }
