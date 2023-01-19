@@ -1,10 +1,10 @@
 import React from 'react';
-import {FaHome} from 'react-icons/fa';
-import{BsFillPersonLinesFill} from 'react-icons/bs';
-import{ GiBookshelf} from 'react-icons/gi';
-import{GoTools} from 'react-icons/go';
-import{FaRegThumbsUp} from 'react-icons/fa';
-import{AiOutlineMail} from 'react-icons/ai';
+// import {FaHome} from 'react-icons/fa';
+// import{BsFillPersonLinesFill} from 'react-icons/bs';
+// import{ GiBookshelf} from 'react-icons/gi';
+// import{GoTools} from 'react-icons/go';
+// import{FaRegThumbsUp} from 'react-icons/fa';
+// import{AiOutlineMail} from 'react-icons/ai';
 import './nav.css';
 
 import{useState} from 'react';
