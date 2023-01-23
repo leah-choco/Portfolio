@@ -4,8 +4,6 @@ Deployed Link:
 
 ## Screenshot:
 
-![screenshot](./src/assets/Screen%20Shot%202023-01-17%20at%202.54.15%20PM.png)
-
 ## Table of Contents:
 
 [Description](#Description)
