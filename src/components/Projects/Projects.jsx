@@ -1,10 +1,10 @@
 import React from 'react';
 
 import './projects.css';
-import athletetracker from '../../assets/coming soon.jpeg'
-import GoalE from '../../assets/Screen Shot 2022-11-15 at 11.38.23 AM.png';
-import forecast from '../../assets/Screen Shot 2022-09-23 at 1.52.25 PM.png';
-import schedule from '../../assets/Screen Shot 2022-08-31 at 2.49.13 PM.png';
+import athletetracker from '../../assets/athletetracker.png';
+import GoalE from '../../assets/Screen Shot 2023-01-24 at 1.02.30 PM.png';
+import forecast from '../../assets/Screen Shot 2023-01-24 at 1.07.33 PM.png';
+import schedule from '../../assets/Screen Shot 2023-01-24 at 1.12.42 PM.png';
 
 const data = [
   {
