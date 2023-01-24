@@ -23,15 +23,16 @@ const data = [
     reference:'I have had insight into Leah learning as she has entered the world of software and she has shown tremendous aptitude in how quickly she has learned. She is driven by curiosity and a skillful learner. She seeks answers for herself whenever she can, but does not hesitate to ask for help when it is needed. If that is not enough, she is kind, empathetic, intelligent, and honest. I cannot recommend her highly enough!' 
   },
   {
+    avatar: Amy,
+    name: 'Amy Gonzalez',
+    reference: 'Leah has been phenomenal to work with over the last few years. She does a wonderful job of getting tasks done in a timely manner and takes initiatve to make things happen. I am so glad I get to work with this amazing woman!'
+  },
+  {
     avatar: Tierney,
     name: 'Tierney Allen',
     reference: 'Leah has been a valuable asset to our Full Stack Coding Bootcamp. Her focus and attention to detail has allowed her to progress in each new topic. She shows a constant ability to take in new information and present it back to us with clarity. Her assistance in both group projects and individual day to day learning is something I am grateful to have had from the get go.'
   },
-  {
-    avatar: Amy,
-    name: 'Amy Gonzalez',
-    reference: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.'
-  }
+
 
 ]
 
