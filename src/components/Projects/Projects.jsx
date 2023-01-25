@@ -12,7 +12,7 @@ const data = [
     image: athletetracker,
     title: 'athletetracker',
     github: 'https://github.com/leah-choco/athletetracker',
-    link: ''
+    link: 'https://athletetracker.herokuapp.com/'
   },
   {
     id: 2,
