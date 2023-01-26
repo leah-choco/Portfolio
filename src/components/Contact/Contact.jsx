@@ -13,7 +13,7 @@ const Contact = () => {
         <div className="contact__options">
           <article className='contact__option'>
             <AiOutlineMail />
-            <h4>Email</h4>
+            <h4>mrsleahchoco@gmail</h4>
             
             <a href='mailto:mrsleahchoco@gmail.com' target='_blank' rel='noreferrer'>Send me an email!</a>
           </article>
