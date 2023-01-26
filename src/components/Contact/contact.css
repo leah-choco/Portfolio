@@ -21,3 +21,11 @@
     background: transparent;
     border-color: var(--color-primary-variant);
 }
+/*Phone Media Queries*/
+@media screen and (max-width: 600px) {
+   .contact__option{
+    width: var(--container-width-sm)
+   
+   
+   }
+}

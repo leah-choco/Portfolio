@@ -87,7 +87,7 @@
   }
 }
 
-/*Phone Media Queries: Still need to get image centered*/
+/*Phone Media Queries*/
 @media screen and (max-width: 600px) {
     .about__me {
         width: 65%;
