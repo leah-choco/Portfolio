@@ -1,8 +1,8 @@
 # Portfolio
 
-Deployed Link:
+Deployed Link: https://leah-choco.github.io/Portfolio/
 
-## Screenshot:
+## Screenshot: ![screenshot](./src/assets/Screen%20Shot%202023-01-26%20at%2011.26.59%20AM.png)
 
 ## Table of Contents:
 
