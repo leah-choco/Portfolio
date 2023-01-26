@@ -1,6 +1,6 @@
 import React from 'react';
 
-import ME from '../../assets/IMG_1381.jpg'
+import ME from '../../assets/Leah Laughing Portfolio.jpeg'
 
 import './header.css';
 
@@ -16,6 +16,7 @@ const Header = () => {
         <div className='me'>
           <img src={ME} alt='me'/>
         </div>
+        <h3>Keep scrolling to see more!</h3>
       </div>
 
    </header>

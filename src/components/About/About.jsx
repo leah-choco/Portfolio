@@ -1,5 +1,5 @@
 import React from 'react';
-import ME from '../../assets/Leah Laughing Portfolio.jpeg'
+import ME from '../../assets/IMG_1381.jpg'
 import {BsLinkedin} from 'react-icons/bs';
 import{FaGithubSquare} from 'react-icons/fa';
 import {BsFacebook} from 'react-icons/bs';
@@ -21,7 +21,6 @@ const About = () => {
 
       <div className='about__content'>
         <div className='about__cards'>
-          {/* <article className='about__card'> */}
           <article className='about__card'>
           <a href='https://www.linkedin.com/in/leah-choco-70531b245/' target='_blank' rel='noreferrer'className='about__icon'><BsLinkedin/>LinkedIn</a>
            </article> 

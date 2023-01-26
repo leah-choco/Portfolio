@@ -4,7 +4,7 @@ import './index.css';
 
 //Importing all the files needed to render the components
 import Header from './components/Header/Header';
-import Nav from './components/Nav/Nav';
+//import Nav from './components/Nav/Nav';
 import About from './components/About/About';
 import Experience from './components/Experience/Experience';
 import Projects from './components/Projects/Projects';
@@ -16,7 +16,7 @@ const App = () => {
   return (
     <>
       <Header />
-      <Nav />
+      {/* <Nav /> */}
       <About />
       <Experience />
       <Projects />   
