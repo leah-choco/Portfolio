@@ -2,7 +2,7 @@
 
 Deployed Link: https://leah-choco.github.io/Portfolio/
 
-## Screenshot: ![screenshot](./src/assets/Screen%20Shot%202023-01-26%20at%2011.26.59%20AM.png)
+## Screenshot: ![screenshot](./src/assets/Screen Shot 2023-03-01 at 1.08.11 PM.png)
 
 ## Table of Contents:
 
