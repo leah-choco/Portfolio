@@ -1,6 +1,6 @@
 footer{
-    background: var(--color-primary);
-    padding: 3rem 0;
+    background: var(--color-bg-variant);
+    padding: 2rem; 
     text-align: center;
     font-size: 0.9rem;
     margin-top: 5rem;
@@ -9,21 +9,8 @@ footer{
 }
 
 footer a {
-    color: var(--color-bg);
+    color: var(--color-white);
+    font-size: 20px;
 }
 
-.footer__logo {
-    font-size: 2rem;
-    font-weight: 500;
-    margin-bottom: 5rem;
-    display: inline-block;
-}
 
-.permalinks{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 2rem;
-    margin: 0 auto 3rem;
-    margin-bottom: 4rem;
-}
