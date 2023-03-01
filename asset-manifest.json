@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.00867acc.css",
-    "main.js": "/Portfolio/static/js/main.fdf500c7.js",
+    "main.css": "/Portfolio/static/css/main.cdb08fd2.css",
+    "main.js": "/Portfolio/static/js/main.bc2d367a.js",
     "static/media/Screen Shot 2023-01-24 at 1.02.30 PM.png": "/Portfolio/static/media/Screen Shot 2023-01-24 at 1.02.30 PM.a7607ab9ef43263b22e3.png",
     "static/media/athletetracker.png": "/Portfolio/static/media/athletetracker.6cacc11d29808a1fc955.png",
     "static/media/Tierney Portfolio Avatar.jpeg": "/Portfolio/static/media/Tierney Portfolio Avatar.13ddaf92e5db033ba3f9.jpeg",
-    "static/media/IMG_1381.jpg": "/Portfolio/static/media/IMG_1381.c540c75dfc21f99423c9.jpg",
     "static/media/Seth Portfolio Avatar.jpeg": "/Portfolio/static/media/Seth Portfolio Avatar.69e4c89c09fb7eaf246d.jpeg",
     "static/media/Leah Laughing Portfolio.jpeg": "/Portfolio/static/media/Leah Laughing Portfolio.2e9ed9f672927dc25533.jpeg",
     "static/media/Screen Shot 2023-01-24 at 1.07.33 PM.png": "/Portfolio/static/media/Screen Shot 2023-01-24 at 1.07.33 PM.be503944edb1d5586511.png",
     "static/media/Screen Shot 2023-01-24 at 1.12.42 PM.png": "/Portfolio/static/media/Screen Shot 2023-01-24 at 1.12.42 PM.13115b3155c2fe540326.png",
     "static/media/Amy Portfolio Avatar.jpeg": "/Portfolio/static/media/Amy Portfolio Avatar.e05db8ddbcf7d2b20f04.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.00867acc.css.map": "/Portfolio/static/css/main.00867acc.css.map",
-    "main.fdf500c7.js.map": "/Portfolio/static/js/main.fdf500c7.js.map"
+    "main.cdb08fd2.css.map": "/Portfolio/static/css/main.cdb08fd2.css.map",
+    "main.bc2d367a.js.map": "/Portfolio/static/js/main.bc2d367a.js.map"
   },
   "entrypoints": [
-    "static/css/main.00867acc.css",
-    "static/js/main.fdf500c7.js"
+    "static/css/main.cdb08fd2.css",
+    "static/js/main.bc2d367a.js"
   ]
 }
