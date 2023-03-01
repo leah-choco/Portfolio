@@ -3,7 +3,6 @@ import React from 'react';
 import './index.css';
 
 //Importing all the files needed to render the components
-
 import Nav from './components/Nav/Nav';
 import About from './components/About/About';
 import Experience from './components/Experience/Experience';

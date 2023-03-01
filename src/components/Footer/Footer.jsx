@@ -6,7 +6,6 @@ const Footer = () => {
   return (
     <footer>
       <a href='#' className='footer__logo'>Back to Top</a>
-
     </footer>
   )
 }

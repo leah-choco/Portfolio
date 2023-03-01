@@ -35,11 +35,11 @@ const About = () => {
           career path. Recently, I became a Certified MERN Developer through the Vanderbilt University Bootcamp. 
          Contributing to the future in this field is exciting! My hobbies involve being outdoors with my family and 
           coffee. 
-      </p>
-    </div>
+        </p>
+      </div>
     </div>
 
-   </section>
+  </section>
   )
 }
 
