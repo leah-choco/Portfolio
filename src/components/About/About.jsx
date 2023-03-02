@@ -1,5 +1,5 @@
 import React from 'react';
-import ME from '../../assets/Leah Laughing Portfolio.jpeg';
+import ME from '../../assets/Leah-BlackandWhite.jpg';
 import './about.css';
 
 const About = () => {
