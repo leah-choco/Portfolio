@@ -3,7 +3,7 @@
 Deployed Link: https://leah-choco.github.io/Portfolio/
 
 ## Screenshot: 
-![Screen Shot 2023-03-01 at 1 08 11 PM](https://user-images.githubusercontent.com/109236891/222240655-d9ab058a-1c48-41b0-9ee7-16fc030b8eda.png)
+![Screen Shot 2023-03-02 at 2 16 53 PM](https://user-images.githubusercontent.com/109236891/222542461-bcdb47df-ad64-46cd-93db-e326ee4adf51.png)
 
 ## Table of Contents:
 
