@@ -5,6 +5,14 @@
 
 }
 
+.name__styling {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+    color: var(--color-white);
+}
+
 .about__me {
     width: 100%;
     aspect-ratio: 1/1;

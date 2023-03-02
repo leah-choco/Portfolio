@@ -5,7 +5,7 @@ import './about.css';
 const About = () => {
   return (
    <section id='about'>
-    <h2>About Me</h2>
+    <h1 className='name__styling'>Leah Choco</h1>
 
     <div className='container about__container'>
       <div className='about__me'>
