@@ -4,7 +4,7 @@ import './projects.css';
 import athletetracker from '../../assets/athletetracker.png';
 import GoalE from '../../assets/Screen Shot 2023-01-24 at 1.02.30 PM.png';
 import forecast from '../../assets/Screen Shot 2023-01-24 at 1.07.33 PM.png';
-import schedule from '../../assets/Screen Shot 2023-01-24 at 1.12.42 PM.png';
+import gpt3 from '../../assets/Screen Shot 2023-03-07 at 2.16.58 PM.png';
 
 const data = [
   {
@@ -25,20 +25,20 @@ const data = [
   },
   {
     id: 3,
+    image: gpt3,
+    title: 'GPT-3',
+    description:'This project was a practice in more advanced CSS techniques. Uses React and CSS to form the front-end. No back-end involved.',
+    github: 'https://github.com/leah-choco/gpt-3',
+    link:'https://leah-choco.github.io/gpt-3/'
+  },
+  {
+    id: 4,
     image: forecast,
     title: 'Weather Forecast',
     description:'Allows the user to search for a city to see current weather specfics. Uses HTML, CSS, JavaScript, weather API, and localStorage.',
     github: 'https://github.com/leah-choco/Weather-Forecast',
     link:'https://leah-choco.github.io/Weather-Forecast/'
   },
-  {
-    id: 5,
-    image: schedule,
-    title: 'Work Day Schedule',
-    description:'Allows user to create an hourly schedule. Color coding is used to highlight past, current, and future. Uses HTML, CSS, and JavaScript.',
-    github:'https://github.com/leah-choco/Work-Day-Schedule',
-    link:' https://leah-choco.github.io/Work-Day-Schedule/'
-  }
 
 ]
 
