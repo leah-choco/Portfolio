@@ -11,7 +11,7 @@ const data = [
     id: 1,
     image: athletetracker,
     title: 'athletetracker',
-    description: 'Allows a personal trainer to track their athletes, update, and delete them. Contains options for waiver and payment. Uses full MERN stack with Apollo.',
+    description: 'Allows a personal trainer to track their athletes, update, and delete them. Contains options for waiver and payment. Uses full MERN stack with GraphQL.',
     github: 'https://github.com/leah-choco/athletetracker',
     link: 'https://athletetracker.herokuapp.com/'
   },
@@ -35,7 +35,7 @@ const data = [
     id: 4,
     image: forecast,
     title: 'Weather Forecast',
-    description:'Allows the user to search for a city to see current weather specfics. Uses HTML, CSS, JavaScript, weather API, and localStorage.',
+    description:'Allows the user to search for a city to see current weather specfics. Uses HTML, CSS, JavaScript, and a free weather API.',
     github: 'https://github.com/leah-choco/Weather-Forecast',
     link:'https://leah-choco.github.io/Weather-Forecast/'
   },
