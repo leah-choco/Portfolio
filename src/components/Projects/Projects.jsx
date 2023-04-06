@@ -28,8 +28,8 @@ const data = [
     image: gpt3,
     title: 'GPT-3',
     description:'This project was a practice in more advanced CSS techniques. Uses React and CSS to form the front-end. No back-end involved.',
-    github: 'https://github.com/leah-choco/gpt-3',
-    link:'https://leah-choco.github.io/gpt-3/'
+    github: 'https://github.com/leah-choco/GPT-3',
+    link:'https://leah-choco.github.io/GPT-3/'
   },
   {
     id: 4,
